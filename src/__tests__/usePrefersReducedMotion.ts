@@ -32,6 +32,18 @@ describe('usePrefersReducedMotion', () => {
     expect(result.current).toBe(true);
   });
 
+  test('removes media query event listener on unmount', () => {
+    const { unmount } = renderHook(() => usePrefersReducedMotion());
+
+    const mediaQueries = matchMedia.getMediaQueries();
+    expect(mediaQueries).toHaveLength(1);
+
+    const mediaQuery = mediaQueries[0] as string;
+    expect(matchMedia.getListeners(mediaQuery)).toHaveLength(1);
+    unmount();
+    expect(matchMedia.getListeners(mediaQuery)).toHaveLength(0);
+  });
+
   test('returns false when rendered on the server', () => {
     const { result } = renderHookOnServer(() => usePrefersReducedMotion());
     expect(result.current).toBe(false);
