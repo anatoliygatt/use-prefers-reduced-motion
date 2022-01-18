@@ -1,29 +1,29 @@
-<br />
+<br>
 
 <div align="center">
-  <img src="https://i.imgur.com/pVg0HpQ.png" width="256" alt="use-prefers-reduced-motion Logo" />
+  <img src="https://i.imgur.com/pVg0HpQ.png" width="256" alt="use-prefers-reduced-motion Logo">
 </div>
 
-<br />
+<br>
 
 <h1 align="center">use-prefers-reduced-motion</h1>
 <h3 align="center"><a href="https://reactjs.org">React</a> hook for subscribing to user's motion preference.</h3>
 
-<br />
+<br>
 
 <p align="center">
   <a href="https://github.com/anatoliygatt/use-prefers-reduced-motion/actions?query=workflow%3ACI">
     <img src="https://img.shields.io/github/workflow/status/anatoliygatt/use-prefers-reduced-motion/CI/master?style=for-the-badge&logo=github&label=CI&labelColor=000000" alt="Github CI Workflow Status">
   </a>
   <a href="https://www.npmjs.com/package/@anatoliygatt/use-prefers-reduced-motion">
-    <img src="https://img.shields.io/npm/v/@anatoliygatt/use-prefers-reduced-motion.svg?style=for-the-badge&logo=npm&labelColor=000000" alt="NPM Version" />
+    <img src="https://img.shields.io/npm/v/@anatoliygatt/use-prefers-reduced-motion.svg?style=for-the-badge&logo=npm&labelColor=000000" alt="NPM Version">
   </a>
   <a href="https://github.com/anatoliygatt/use-prefers-reduced-motion/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/anatoliygatt/use-prefers-reduced-motion.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=ffffff&labelColor=000000" alt="License">
   </a>
 </p>
 
-<br />
+<br>
 
 ## 🚀 Getting Started
 
