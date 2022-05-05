@@ -1,3 +1,9 @@
+### [1.0.3](https://github.com/anatoliygatt/use-prefers-reduced-motion/compare/v1.0.2...v1.0.3) (2022-05-05)
+
+### Bug Fixes
+
+- **deps:** remove dependency on tslib ([e121056](https://github.com/anatoliygatt/use-prefers-reduced-motion/commit/e1210568f91e2a5033d58c7b7108550ec66ca142))
+
 ### [1.0.2](https://github.com/anatoliygatt/use-prefers-reduced-motion/compare/v1.0.1...v1.0.2) (2022-05-04)
 
 ### Bug Fixes
