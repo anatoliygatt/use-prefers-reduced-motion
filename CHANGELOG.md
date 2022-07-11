@@ -1,3 +1,9 @@
+### [1.0.4](https://github.com/anatoliygatt/use-prefers-reduced-motion/compare/v1.0.3...v1.0.4) (2022-07-11)
+
+### Bug Fixes
+
+- **deps:** bump semver-regex from 3.1.3 to 3.1.4 ([077eb1b](https://github.com/anatoliygatt/use-prefers-reduced-motion/commit/077eb1b9250c144d747d0eb889c735d18e068416))
+
 ### [1.0.3](https://github.com/anatoliygatt/use-prefers-reduced-motion/compare/v1.0.2...v1.0.3) (2022-05-05)
 
 ### Bug Fixes
