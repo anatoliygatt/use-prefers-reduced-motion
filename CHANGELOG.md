@@ -1,3 +1,9 @@
+### [1.0.5](https://github.com/anatoliygatt/use-prefers-reduced-motion/compare/v1.0.4...v1.0.5) (2022-09-12)
+
+### Bug Fixes
+
+- **deps:** bump npm from 8.3.2 to 8.16.0 ([41831a4](https://github.com/anatoliygatt/use-prefers-reduced-motion/commit/41831a4f90067ecebd40a5a3420fd6541f78230a))
+
 ### [1.0.4](https://github.com/anatoliygatt/use-prefers-reduced-motion/compare/v1.0.3...v1.0.4) (2022-07-11)
 
 ### Bug Fixes
