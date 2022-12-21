@@ -1,3 +1,9 @@
+### [1.0.6](https://github.com/anatoliygatt/use-prefers-reduced-motion/compare/v1.0.5...v1.0.6) (2022-12-21)
+
+### Bug Fixes
+
+- **deps-peer:** allow usage of react@^18.0.0 ([6f8e140](https://github.com/anatoliygatt/use-prefers-reduced-motion/commit/6f8e1407764bfb9b76a258724872867b7f9e60d1))
+
 ### [1.0.5](https://github.com/anatoliygatt/use-prefers-reduced-motion/compare/v1.0.4...v1.0.5) (2022-09-12)
 
 ### Bug Fixes
