@@ -1,3 +1,9 @@
+### [1.0.7](https://github.com/anatoliygatt/use-prefers-reduced-motion/compare/v1.0.6...v1.0.7) (2022-12-24)
+
+### Bug Fixes
+
+- **README:** update github ci workflow status badge url ([1a66542](https://github.com/anatoliygatt/use-prefers-reduced-motion/commit/1a6654251a519d20fb725ecfdb55fb67a1234700))
+
 ### [1.0.6](https://github.com/anatoliygatt/use-prefers-reduced-motion/compare/v1.0.5...v1.0.6) (2022-12-21)
 
 ### Bug Fixes
