@@ -1,3 +1,9 @@
+### [1.0.9](https://github.com/anatoliygatt/use-prefers-reduced-motion/compare/v1.0.8...v1.0.9) (2023-01-16)
+
+### Bug Fixes
+
+- **deps:** bump json5 from 1.0.1 to 1.0.2 ([9f31d2a](https://github.com/anatoliygatt/use-prefers-reduced-motion/commit/9f31d2a94c03248faea89924dd6758325a45be0d))
+
 ### [1.0.8](https://github.com/anatoliygatt/use-prefers-reduced-motion/compare/v1.0.7...v1.0.8) (2022-12-24)
 
 ### Bug Fixes
