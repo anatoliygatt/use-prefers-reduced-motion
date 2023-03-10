@@ -1,3 +1,9 @@
+### [1.0.10](https://github.com/anatoliygatt/use-prefers-reduced-motion/compare/v1.0.9...v1.0.10) (2023-03-10)
+
+### Bug Fixes
+
+- **deps:** bump minimist from 1.2.5 to 1.2.7 ([b1c44ec](https://github.com/anatoliygatt/use-prefers-reduced-motion/commit/b1c44ec4ac7adf8d4550294da838f385335c4493))
+
 ### [1.0.9](https://github.com/anatoliygatt/use-prefers-reduced-motion/compare/v1.0.8...v1.0.9) (2023-01-16)
 
 ### Bug Fixes
