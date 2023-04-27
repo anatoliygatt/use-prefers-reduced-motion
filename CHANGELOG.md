@@ -1,3 +1,9 @@
+### [1.0.11](https://github.com/anatoliygatt/use-prefers-reduced-motion/compare/v1.0.10...v1.0.11) (2023-04-27)
+
+### Bug Fixes
+
+- **deps:** bump yaml, @commitlint/cli, semantic-release, @commitlint/load and lint-staged ([a20937f](https://github.com/anatoliygatt/use-prefers-reduced-motion/commit/a20937fda3294d12a098a8ff853756866e4600bb))
+
 ### [1.0.10](https://github.com/anatoliygatt/use-prefers-reduced-motion/compare/v1.0.9...v1.0.10) (2023-03-10)
 
 ### Bug Fixes
